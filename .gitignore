@@ -1,0 +1,6 @@
+*~
+*.dsc
+*.changes
+*.deb
+*.zip
+hunspell-br*/*
