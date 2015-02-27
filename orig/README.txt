@@ -1,8 +1,8 @@
 Hunspell Breton (br_FR) dictionary
-Copyright (c) 2001-2013 Korvigelloù An Drouizig
+Copyright (c) 2001-2014 Korvigelloù An Drouizig
 drouizig@drouizig.org - http://www.drouizig.org	
 
-Version 0.11 - release date: 2013-01-31
+Version 0.12 - release date: 2014-01-29
 --
 This dictionary is based on the original Breton 
 wordlist created by Philippe Basciano-Le Gall for 

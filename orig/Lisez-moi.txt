@@ -1,5 +1,5 @@
 Portage Hunspell du Difazier an Drouizig.
-Version 0.11 du 31 Janvier 2013.
+Version 0.12 du 29 Janvier 2014.
 
 __/Consignes d'installation\__
 
@@ -38,4 +38,4 @@ La procédure d'installation a été adapté pour Ubuntu par Denis.
 
 Rapportez tous commentaire, correction ou suggestion à drouizig@drouizig.org
 
-Bons plaisirs ! 
+Bons plaisirs !
